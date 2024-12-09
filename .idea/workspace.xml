@@ -4,14 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd970355-88be-44f7-89cd-ed89a8e52b56" name="更改" comment="First commit">
-      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_6/GameFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PlaneGame/Game0_6/GameFrame$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_6/GameFrame$KeyMonitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PlaneGame/Game0_6/GameFrame$KeyMonitor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_6/GameFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PlaneGame/Game0_6/GameFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_6/redM.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PlaneGame/Game0_6/redM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_6/shell.class" beforeDir="false" />
+    <list default="true" id="dd970355-88be-44f7-89cd-ed89a8e52b56" name="更改" comment="不同形状，登录界面">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_1/GameFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_1/GameFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_2/GameFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_2/GameFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_3/GameFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_3/GameFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_4/GameFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_4/GameFrame$KeyMonitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_4/GameFrame$paintThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_4/GameFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_5/GameFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_5/GameFrame$KeyMonitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_5/GameFrame$paintThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_5/GameFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_6/GameFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_6/GameFrame$2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_6/GameFrame$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_6/GameFrame$KeyMonitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_6/GameFrame$paintThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_6/GameFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_6/Money.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_6/OvalMoney.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_6/airPlane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_6/circleMoney.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_6/rectMoney.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_6/redM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Image/attack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Image/bg1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Image/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Image/oval.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Image/plane.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Game0_1/GameFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Game0_2/GameFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Game0_3/GameFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Game0_4/GameFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Game0_5/GameFrame.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Game0_6/GameFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game0_6/GameFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Image/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Image/rect.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,27 +82,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Game0_6.GameFrame.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/JAVAIDEA/PlaneGit",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true",
-    "应用程序.Game0_6.GameFrame.executor": "Run",
-    "应用程序.GameFrame.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Game0_6.GameFrame.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/JAVAIDEA/PlaneGit&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.Game0_6.GameFrame.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.GameFrame.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\JAVAIDEA\PlaneGame\src\Image" />
@@ -84,7 +115,7 @@
       <recent name="Game0_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Game0_6.GameFrame">
+  <component name="RunManager" selected="应用程序.Game0_6.GameFrame">
     <configuration name="Game0_6.GameFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Game0_6.GameFrame" />
       <module name="PlaneGame" />
@@ -113,12 +144,12 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Game0_6.GameFrame" />
+      <item itemvalue="应用程序.Game0_6.GameFrame" />
       <item itemvalue="应用程序.GameFrame" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Game0_6.GameFrame" />
+        <item itemvalue="应用程序.Game0_6.GameFrame" />
         <item itemvalue="应用程序.GameFrame" />
       </list>
     </recent_temporary>
@@ -157,7 +188,8 @@
       <workItem from="1732698306116" duration="1155000" />
       <workItem from="1732699478892" duration="1863000" />
       <workItem from="1732764273438" duration="26000" />
-      <workItem from="1733704611684" duration="7571000" />
+      <workItem from="1733704611684" duration="7622000" />
+      <workItem from="1733724394115" duration="1520000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
@@ -183,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732072100965</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="不同形状，登录界面">
+      <option name="closed" value="true" />
+      <created>1733712648734</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733712648734</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,7 +247,8 @@
       <path value="$PROJECT_DIR$/../PlaneGit" />
     </ignored-roots>
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="不同形状，登录界面" />
+    <option name="LAST_COMMIT_MESSAGE" value="不同形状，登录界面" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

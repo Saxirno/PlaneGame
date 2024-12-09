@@ -27,11 +27,15 @@ public class GameFrame extends Frame {
     public static void main(String[] args) {
         int redSize=0;
         int redX,redY;
+        Money[] shape = new Money[3];
+        shape[0] = new rectMoney();
+        shape[1] = new OvalMoney();
+        shape[2] = new circleMoney();
         for(int i=0;i<20;i++){//初始化红包
             redSize=rand.nextInt(100)+50;
             redY = rand.nextInt(200)-200-redSize;
             redX = rand.nextInt(600-redSize);
-            redPok[i] = new redM(redX,redY,redSize,redSize,redSize/10,i%3);
+            redPok[i] = new redM(redX,redY,redSize,redSize,redSize/10,i%3,shape[i%3]);
         }
 
         loginFrame.InitialFrame();
@@ -259,7 +263,9 @@ class redM{
     int score;
     int redSpeed;
     Random rand = new Random();
-    public redM(int x1,int y1,int w1,int h1,int score1,int i1){
+    Money shape;
+    String file;
+    public redM(int x1,int y1,int w1,int h1,int score1,int i1,Money shape1){
         this.x = x1;
         this.y = y1;
         this.w = w1;
@@ -267,6 +273,8 @@ class redM{
         this.redSpeed = w*h/500;
         this.score = score1;
         i = i1;
+        this.shape = shape1;
+        file = shape.shape();
     }
     public void check(int y2){//超过然后更新
         if(y >= y2){
