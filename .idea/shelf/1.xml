@@ -1,0 +1,9 @@
+<changelist name="更改1" date="1732070278934" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/更改1/shelved.patch" />
+  <option name="DESCRIPTION" value="更改" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="out/production/PlaneGame/Game0_6/airPlane.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/更改1/airPlane.class" />
+  </binary>
+</changelist>

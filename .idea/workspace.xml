@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd970355-88be-44f7-89cd-ed89a8e52b56" name="更改" comment="First commit">
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_6/GameFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PlaneGame/Game0_6/GameFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_6/GameFrame$KeyMonitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PlaneGame/Game0_6/GameFrame$KeyMonitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_6/GameFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PlaneGame/Game0_6/GameFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_6/redM.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PlaneGame/Game0_6/redM.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlaneGame/Game0_6/shell.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Game0_6/GameFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game0_6/GameFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Image/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Image/rect.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/../PlaneGit" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2nBlkq3d5B2aTeG9EeHFEjVD1Od" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Game0_6.GameFrame.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/JAVAIDEA/PlaneGit",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.Game0_6.GameFrame.executor": "Run",
+    "应用程序.GameFrame.executor": "Run"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVAIDEA\PlaneGame\src\Image" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Game0_6" />
+      <recent name="Gamej0_5" />
+      <recent name="Game0_4" />
+      <recent name="Game0_3" />
+      <recent name="Game0_2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Game0_6.GameFrame">
+    <configuration name="Game0_6.GameFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Game0_6.GameFrame" />
+      <module name="PlaneGame" />
+      <option name="VM_PARAMETERS" value="-Dfile.encoding=gbk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Game0_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Game0_5.GameFrame" />
+      <module name="PlaneGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Game0_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Game0_6.GameFrame" />
+      <item itemvalue="应用程序.GameFrame" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Game0_6.GameFrame" />
+        <item itemvalue="应用程序.GameFrame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="dd970355-88be-44f7-89cd-ed89a8e52b56" name="更改" comment="" />
+      <created>1728454510231</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728454510231</updated>
+      <workItem from="1728454511292" duration="7331000" />
+      <workItem from="1730281450894" duration="651000" />
+      <workItem from="1730285209178" duration="2223000" />
+      <workItem from="1731487911977" duration="4106000" />
+      <workItem from="1731494190424" duration="2613000" />
+      <workItem from="1731497540977" duration="619000" />
+      <workItem from="1731499829173" duration="49000" />
+      <workItem from="1732067748259" duration="1821000" />
+      <workItem from="1732069797949" duration="962000" />
+      <workItem from="1732071274381" duration="422000" />
+      <workItem from="1732072087115" duration="89000" />
+      <workItem from="1732081427037" duration="6162000" />
+      <workItem from="1732092190288" duration="1172000" />
+      <workItem from="1732103783810" duration="225000" />
+      <workItem from="1732105000231" duration="13000" />
+      <workItem from="1732698306116" duration="1155000" />
+      <workItem from="1732699478892" duration="1863000" />
+      <workItem from="1732764273438" duration="26000" />
+      <workItem from="1733704611684" duration="7571000" />
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1732070401430</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732070401430</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1732071304572</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732071304572</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1732072100965</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732072100965</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../PlaneGit" />
+    </ignored-roots>
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
